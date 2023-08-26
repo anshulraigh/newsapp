@@ -21,3 +21,6 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+// 20230824155721
+// https://newsapi.org/v2/top-headlines?country=us&apiKey=912a578d63664664925c1da9bf463cd8
